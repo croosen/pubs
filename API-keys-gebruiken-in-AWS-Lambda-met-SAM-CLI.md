@@ -80,7 +80,7 @@ Er moet nog een juiste policy worden toegevoegd aan je template.yaml om je Lambd
 
 ## Links
 Meer over policy templates in SAM CLI: [https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-policy-templates.html](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-policy-templates.html)  
-Meer over SAM CLI
+Meer over SAM CLI:
 [https://docs.aws.amazon.com/serverless-application-model/index.html](https://docs.aws.amazon.com/serverless-application-model/index.html)
 
 
