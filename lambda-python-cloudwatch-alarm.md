@@ -1,6 +1,6 @@
 # Get notified when your AWS Lambda Python code raises an exception using SAM CLI
 
-*Tags:* AWS | Serverless | Lamda | SNS | CloudWatch
+*Tags: AWS | Serverless | Lamda | SNS | CloudWatch*
 
 A couple of months ago, I started working on a project which involves some Python code on AWS Lambda. The code handles some critical movements of data between 
 API's and a database. With critical I mean if the data does not get stored correctly it can cost you (ok me) big time.
